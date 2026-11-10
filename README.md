@@ -205,4 +205,4 @@ This repository serves as the official landing page for AbiWord. The software is
 **Get the most recent version of AbiWord today!**
 
 ---
-**Last updated:** 2026-11-10 05:43:34 UTC
+**Last updated:** 2026-11-10 14:12:35 UTC
